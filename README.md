@@ -1,2 +1,17 @@
-# Kernel
-to add a systemcall to the kernel of linux and compile the kernel
+### steps
+- write systemcall
+- add it to target files
+- compile kernel
+
+#### what is a systemcall
+khf
+
+
+
+
+
+
+
+
+
+
