@@ -22,7 +22,9 @@ on top level we've got Michroarchitecture in which physical devices interact wit
 
 ##### systemcall
 - as defined it's a method to get services from the kernel
-- 
+the picture below simply shows how a system call works
+![](https://github.com/v-nafiseh/Kernel/blob/main/syscall.JPG)
+
 
 
 
